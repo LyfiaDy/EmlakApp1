@@ -1,0 +1,15 @@
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\bin\Debug\net7.0\EmlakApp.exe
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\bin\Debug\net7.0\EmlakApp.deps.json
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\bin\Debug\net7.0\EmlakApp.runtimeconfig.json
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\bin\Debug\net7.0\EmlakApp.dll
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\bin\Debug\net7.0\EmlakApp.pdb
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\EmlakApp.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\EmlakApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\EmlakApp.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\EmlakApp.AssemblyInfo.cs
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\EmlakApp.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\EmlakApp.dll
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\refint\EmlakApp.dll
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\EmlakApp.pdb
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\EmlakApp.genruntimeconfig.cache
+C:\Users\Monster\source\repos\EmlakApp\EmlakApp\obj\Debug\net7.0\ref\EmlakApp.dll

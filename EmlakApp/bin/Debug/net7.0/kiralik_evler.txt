@@ -1,0 +1,1 @@
+Oda Sayısı: 5, Kat Numarası: 5, Alan: 555, Kira: 5555, Depozito: 5555
